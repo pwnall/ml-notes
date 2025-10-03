@@ -1,0 +1,14 @@
+[project]
+name = "ml-notes"
+version = "0.1.0"
+description = "Jupyter Book - Notes on Machine Learning"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupyter-book>=2.0.0a0",
+    "jupyter-collaboration>=4.1.1",
+    "jupyterlab>=4.4.9",
+    "jupyterlab-myst>=2.4.2",
+    "jupytext>=1.17.3",
+]
