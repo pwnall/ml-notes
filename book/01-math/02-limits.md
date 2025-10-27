@@ -11,7 +11,7 @@ limit.
 The information above is lifted from
 [a Wikipedia article](https://en.wikipedia.org/wiki/Limit_of_a_function).
 
-## Formal Definitions
+## Formal definitions
 
 The informal definition of a limit is made precise by the
 [($\epsilon, \delta$)-definition](https://en.wikipedia.org/wiki/(%CE%B5,_%CE%B4)-definition_of_a_limit),
